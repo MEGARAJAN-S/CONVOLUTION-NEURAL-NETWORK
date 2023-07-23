@@ -22,7 +22,7 @@ This is a categorical classification dataset. Which has a different categories o
 This convolution neural network has Cross entropy loss function which is best suitable for the categorical dataset. This neural network has Adam optimizer which is the more suitable for this dataset.
 
 Output:
-There are two output in this repositorie. In the first one the number of epochs used are 200. The training loss is 0.02 and the testing accuracy is around 72. The sample prediction by the neural network is in OUTPUT 1.txt. The sample data set is in Figure_1.png.In the next output the training loss is 0.004 the test accuracy is around 75. The sample prediction is in OUTPUT 2.txt. The sample prediction is in Figure_2.png.
+There are two output in this repositorie. In the first one the number of epochs used are 200 with a learing rate of 0.0001. The output has training loss of 0.02 and the testing accuracy of 72. The sample prediction by the neural network is in OUTPUT 1.txt. The sample data set is in Figure_1.png.The second one has the epochs of 500 and the learing rate of 0.00001.the output has training loss of 0.004 the test accuracy of 75. The sample prediction is in OUTPUT 2.txt. The sample prediction is in Figure_2.png.
 
 Software used:
 Pycharm Community - 2023.1.4
